@@ -1,7 +1,7 @@
 "use client";
 
 import Link from "next/link";
-import "../styles/navbar.css";
+import "../styles/navbar.scss";
 
 const Navbar = () => {
   return (

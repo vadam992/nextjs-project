@@ -1,5 +1,5 @@
 import CityGrid from "../../components/CityGrid";
-import "../../styles/cities.css";
+import "../../styles/cities.scss";
 
 const cities = [
   { id: 1, name: "Solaria" },
